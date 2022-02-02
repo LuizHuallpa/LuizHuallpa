@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuizHuallpa
-- 👀 I’m interested in Data Analysis and Front End Development
-- 🌱 I’m currently learning Python for Data Analysis
+- 👀 I’m interested in Data Analysis and Software Development
+- 🌱 I’m currently learning C# and .Net
 - 📫 How to reach me luiz.huallpa@gmail.com
 
